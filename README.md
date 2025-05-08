@@ -1,0 +1,5 @@
+##differences between interfaces and types in TypeScript
+interface and type in typescript they kind a do similar things but not exactly same. interface is used mostly when you working with objects like when you want to define shape of something that has properties like name or age. but type can do more than that like it can say a value is number or string or a mix of types or even a function. another thing is with interface you can add more properties later like extend it or merge it, but type you can't really do that once it's declared.
+
+##How does TypeScript help in improving code quality and project maintainability?
+Typescript help to keep code clean and easy to work with. It tells you if you make mistake before you run the code, like if you send wrong value to a function or forget to return something. This save time and stop many problems. It also makes your code more clear, so when you or someone else look at it later, it’s not confusing. It gives hints and auto-complete in the code editor, so you don’t type wrong things. And if you change something, it shows where else it might break. This make big projects easier to fix and take care of.
